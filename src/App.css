@@ -48,15 +48,21 @@
   align-items: center;
 }
 
+.form-name {
+  padding-top: 0;
+}
+
 .form-name > h5 {
   padding-left: 15px;
   color: #3A719B;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 300;
 }
 
 .form-number {
   min-width: 40px;
   background-color: #25A575;
-  ;
+  color: white;
+  font-size: 20px;
+  font-weight: 300;
 }
